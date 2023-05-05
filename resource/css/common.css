@@ -345,6 +345,7 @@ body {
 }
 .pdf-list .second-font {
   font-size: 1.5vw;
+  letter-spacing: -1px;
 }
 
 .ex-popup {
